@@ -11,4 +11,4 @@ http://cs231n.stanford.edu/2017/syllabus
 running sh file in cygwin:  >>> sh file_name.sh
 
 
-- assignment3 -> .c error -> install Visual Studio
+- Cython error("Unable to find vcvarsall.bat") -> install Visual Studio
